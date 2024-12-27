@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/cat-weather-app/static/js/main.c54907db.js",
+    "index.html": "/cat-weather-app/index.html",
+    "main.c54907db.js.map": "/cat-weather-app/static/js/main.c54907db.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.c54907db.js"
+  ]
+}
